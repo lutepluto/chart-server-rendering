@@ -1,0 +1,26 @@
+{
+  "name": "chart-server-rendering",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lutepluto/chart-server-rendering.git"
+  },
+  "author": "lutepluto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lutepluto/chart-server-rendering/issues"
+  },
+  "homepage": "https://github.com/lutepluto/chart-server-rendering#readme",
+  "dependencies": {
+    "canvas": "^1.6.11",
+    "echarts": "^4.1.0",
+    "express": "^4.16.3",
+    "http-errors": "^1.6.3",
+    "morgan": "^1.9.0"
+  }
+}
