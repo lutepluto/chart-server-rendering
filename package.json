@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/lutepluto/chart-server-rendering#readme",
   "dependencies": {
-    "canvas": "^1.6.11",
+    "canvas": "2.0.0-alpha.12",
     "echarts": "^4.1.0",
     "express": "^4.16.3",
     "http-errors": "^1.6.3",
